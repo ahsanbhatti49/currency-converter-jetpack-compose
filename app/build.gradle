@@ -7,11 +7,11 @@ plugins {
     id 'dagger.hilt.android.plugin'
 }
 android {
-    namespace 'com.jetpack.paypay'
+    namespace 'com.jetpack.converter'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.jetpack.paypay"
+        applicationId "com.jetpack.converter"
         minSdk 21
         targetSdk 32
         versionCode 1
